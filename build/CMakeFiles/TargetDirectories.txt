@@ -1,5 +1,0 @@
-C:/Users/Marko Cindric/Desktop/CUDA-DYNAMICAL-OT/build/CMakeFiles/ot_solver.dir
-C:/Users/Marko Cindric/Desktop/CUDA-DYNAMICAL-OT/build/CMakeFiles/validation_gaussians.dir
-C:/Users/Marko Cindric/Desktop/CUDA-DYNAMICAL-OT/build/CMakeFiles/export_density.dir
-C:/Users/Marko Cindric/Desktop/CUDA-DYNAMICAL-OT/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Marko Cindric/Desktop/CUDA-DYNAMICAL-OT/build/CMakeFiles/ZERO_CHECK.dir
